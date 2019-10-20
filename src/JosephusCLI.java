@@ -12,7 +12,7 @@ public class JosephusCLI {
 		System.out.printf(
 				"The problem is named after Flavius Josephus, a Jewish historian living in the 1st century. %nAccording to Josephus' account of the siege of Yodfat, he and his 40 "
 						+ "soldiers were trapped %nin a cave by Roman soldiers. They chose suicide over capture, and settled on a serial %nmethod of committing suicide by drawing lots."
-						+ "In other words they killed every other person. %nJosephus states that by luck or possibly by the hand of God, he remained until the end %nand surrendered to "
+						+ " In other words they killed every other person %nin the circle. Josephus states that by luck or possibly by the hand of God, he remained until %nthe end and surrendered to "
 						+ "the Romans rather than killing themselves.");
 
 		System.out.printf("%n%nIn order to stay alive you must choose the correct spot to stand in. Good luck!");
